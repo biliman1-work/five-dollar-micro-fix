@@ -10,6 +10,7 @@ Payment is due only after you receive and accept the agreed deliverable. No depo
 
 - [Memanto PR #1747](https://github.com/moorcheh-ai/memanto/pull/1747): diagnosed a silent data-overwrite defect, implemented deterministic collision-safe exports, and added regression coverage for duplicate, case-equivalent, Unicode-equivalent, and reserved filenames. Independent CI passed Ruff and the focused test suite on Python 3.10–3.14.
 - [APN Network report #192](https://github.com/APN-Network/bugs/issues/192): reproduced and documented a global localization defect across Russian, Chinese, Arabic, and Turkish, with direct URLs, actual/expected results, impact, environment, and a duplicate check.
+- [APN Network report #193](https://github.com/APN-Network/bugs/issues/193): identified a separate untranslated compatibility qualifier in all four non-English homepages and distinguished it from two nearby reports through a documented duplicate check.
 
 ## Good fits
 
